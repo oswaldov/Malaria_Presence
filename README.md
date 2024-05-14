@@ -1,2 +1,2 @@
 # Malaria_Presence
-How environmental, geographic, socio-demographic, and epidemiological factors influence malaria presence at the village level in Africa and Asia.
+R code used for the data analysis and the maps generation of the manuscript entitled "How environmental, geographic, socio-demographic, and epidemiological factors influence malaria presence at the village level in Africa and Asia". Malaria data used in this study is publicly available online at https://malariaatlas.org/. Environmental, gepographical, socio-demographic, and epidemiology data is publicly available; see the manuscript for a more detailed description.   
